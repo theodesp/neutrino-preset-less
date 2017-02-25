@@ -17,7 +17,7 @@ module.exports = neutrino => {
         .include(SRC)
         .loader('style', STYLE_LOADER)
         .loader('css', CSS_LOADER)
-        .loader('less', STYLE_LOADER); 
+        .loader('less', LESS_LOADER); 
     
     config.resolve.modules.add(MODULES);
     config.resolveLoader.modules.add(MODULES);
