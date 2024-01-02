@@ -9,7 +9,7 @@
     "less",
     "less-loader"
   ],
-  "author": "Theo Despoudis <thdespou@hotmail.com>",
+  "author": "Theo Despoudis",
   "license": "MIT",
   "repository": "https://github.com/theodesp/neutrino-preset-less.git",
   "dependencies": {
